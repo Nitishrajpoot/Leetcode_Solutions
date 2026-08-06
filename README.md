@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Array
 |  |
