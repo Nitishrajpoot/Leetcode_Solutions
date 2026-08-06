@@ -20,7 +20,7 @@ class Solution {
             node = node.next;
         }
         k = k%size;
-        for(int i = 0; i < k; i++){
+        while(k-- > 0){
             
             fast = fast.next;
         }
@@ -30,8 +30,8 @@ class Solution {
             fast = fast.next;
         }
         fast.next = head;
-        ListNode HEAD = slow.next;
+        node = slow.next;
         slow.next = null;
-        return HEAD;
+        return node;
     }
 }
