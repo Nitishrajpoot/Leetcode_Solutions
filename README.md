@@ -14,10 +14,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
