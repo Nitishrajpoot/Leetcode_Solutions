@@ -15,6 +15,7 @@
 | [0061-rotate-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
