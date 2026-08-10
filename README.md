@@ -16,6 +16,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
