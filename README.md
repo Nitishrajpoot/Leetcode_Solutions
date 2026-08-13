@@ -33,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
