@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0061-rotate-list) |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
