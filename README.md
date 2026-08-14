@@ -35,6 +35,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
