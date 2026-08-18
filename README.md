@@ -38,6 +38,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
