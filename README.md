@@ -37,6 +37,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
