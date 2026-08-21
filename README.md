@@ -29,6 +29,7 @@
 | [0015-3sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -131,5 +133,6 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
