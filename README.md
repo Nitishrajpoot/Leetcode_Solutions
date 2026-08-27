@@ -29,6 +29,7 @@
 | [0015-3sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
