@@ -62,6 +62,7 @@
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
