@@ -31,6 +31,7 @@
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0242-valid-anagram) |
