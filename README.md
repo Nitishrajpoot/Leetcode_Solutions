@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0027-remove-element) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
