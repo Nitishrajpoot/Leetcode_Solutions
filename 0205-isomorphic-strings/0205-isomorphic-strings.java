@@ -12,7 +12,7 @@ class Solution {
             if (m1.containsKey(a) && m1.get(a) != b)
                 return false;
 
-            if (m2.containsKey(b) && m2.get(b) != a)
+             if (m2.containsKey(b) && m2.get(b) != a)
                 return false;
 
             m1.put(a, b);
