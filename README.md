@@ -8,6 +8,7 @@
 | [0061-rotate-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -66,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -133,6 +136,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Greedy
 |  |
