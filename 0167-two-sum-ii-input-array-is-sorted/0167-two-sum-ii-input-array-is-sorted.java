@@ -6,14 +6,12 @@ class Solution {
             int sum=numbers[i]+numbers[j];
             if(sum==target){
                 return new int[]{i+1,j+1};
-            }
-            else if(sum>target){
-                j--;
-            }
-            else{
+            }else if(sum<target){
                 i++;
+            }else{
+                j--;
             }
         }
         return new int[]{-1,-1};
-   }
+    }
 }
