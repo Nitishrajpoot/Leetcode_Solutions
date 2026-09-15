@@ -37,6 +37,7 @@
 | [0045-jump-game-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
