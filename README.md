@@ -125,6 +125,7 @@
 | [0054-spiral-matrix](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0290-word-pattern](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
