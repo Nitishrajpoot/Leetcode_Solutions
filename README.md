@@ -24,6 +24,7 @@
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Array
@@ -46,6 +47,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
