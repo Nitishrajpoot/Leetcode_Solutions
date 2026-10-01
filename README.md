@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -192,4 +193,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nitishrajpoot/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
